@@ -40,6 +40,9 @@ Agent Skills -ominaisuuden käyttö: uudelleenkäytettävien, paketoitujen taito
 **AI Fluency for students** - certificate-6s7sc5q2mceb-1785322243.pdf
 4D-viitekehys sovellettuna opiskeluun - painottaa oppimista, ei vain tuottavuutta.
 
+**Teaching the AI Fluency Framework** - certificate-5c7464qjx8xi-1785828670.pdf
+4D-viitekehyksen opettaminen muille: miten rakentaa oppitunteja ja arviointeja Delegation-Diligence- ja Description-Discernment-silmukoiden ympärille, ja miten eri kohderyhmille (opiskelijat, kollegat) räätälöidään lähestymistapa.
+
 **Claude on Google Cloud** - certificate-yks5obk38vmp-1785750298.pdf
 Sama Claude API -sisältö Google Cloud Vertex AI -alustan kautta. Osoittaa että Claude-osaaminen siirtyy alustalta toiselle (suora SDK, AWS Bedrock, Google Vertex AI) pienin muutoksin.
 
